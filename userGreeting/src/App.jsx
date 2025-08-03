@@ -1,4 +1,5 @@
 import Counter from "./Counter.jsx"
+import ObjectUpdate from "./ObjectUpdate.jsx"
 import Onchange from "./Onchange.jsx"
 import UserGreeting from "./usergGreeting.jsx"
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <>
     {/* <UserGreeting/> */}
     {/* <Counter/> */}
-    <Onchange/>
+    {/* <Onchange/> */}
+    <ObjectUpdate/>
     </>
   )
 }

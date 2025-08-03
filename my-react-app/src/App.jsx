@@ -3,6 +3,7 @@ import Footer from './Footer.jsx'
 import Gadgets from './Gadgets.jsx'
 import Button from './Button/Button.jsx'
 import myComponent from './myComponent.jsx'
+import ColorPicker from './ColorPicker.jsx'
 
 function App() {
  
@@ -14,7 +15,8 @@ function App() {
       <Gadgets></Gadgets>
       <Button></Button>
       <Footer></Footer> */}
-      <myComponent/>
+      {/* <myComponent/> */}
+      <ColorPicker/>
     </>
   
   );
