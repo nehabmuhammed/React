@@ -1,3 +1,4 @@
+import ArrayUpdate from "./ArrayUpdate.jsx"
 import Counter from "./Counter.jsx"
 import ObjectUpdate from "./ObjectUpdate.jsx"
 import Onchange from "./Onchange.jsx"
@@ -10,7 +11,8 @@ function App() {
     {/* <UserGreeting/> */}
     {/* <Counter/> */}
     {/* <Onchange/> */}
-    <ObjectUpdate/>
+    {/* <ObjectUpdate/> */}
+    <ArrayUpdate/>
     </>
   )
 }
